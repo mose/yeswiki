@@ -538,45 +538,6 @@ Vous pourrez bien sûr afficher les données des formulaires que vous aurez fabr
 
 Ce composant est le pendant de l’action précédente, il permet d’afficher l’espace de saisie correspondant au formulaire qui vous intéresse.
 
-## Actions avancées (à écrire)
-### Créer un sommaire de la page
-### Afficher des liens "Page Suivante" "Sommaire" "Page Précédente" dans une page
-### Afficher une barre de progression
-### Recherche de texte
-### Inclure une page dans une autre
-### Rediriger vers une autre page du Wiki
-### Afficher les pages sous forme de liste
-### Afficher les pages qui ont un lien vers la page courante
-### Afficher mes changements
-### Afficher mes pages
-### Afficher le contenu du fichier de configuration
-### Lister les utilisateurs, utilisatrices
-### Liste les derniers changements
-### Liste les derniers commentaires
-### Lister toutes les pages
-### Lister toutes les pages sauf les fiches bazar
-### Lister les pages à créer
-### Lister les pages orphelines
-### Lister seulement les fiches bazar
-
-## Gestion du YesWiki (à écrire)
-### Éditer les droits d'accès aux actions
-### Éditer les droits d'accès aux handlers
-### Éditer les groupes d'utilisateurs
-### Gestion des pages
-### Gérer les droits d'accès aux pages
-### Table des utilisateurs
-### Gérer le thème des pages
-### Modifier les paramètres du fichier de configuration
-### Définir le thème de base
-### Tester les thèmes disponibles
-### Gestion des tags
-### S'abonner pour recevoir périodiquement le contenu d'une page par courriel
-### Nettoyer les pages récemment vandalisées
-### Gestion des fichiers
-
-## Mettre à jour
-
 ## Gérer les droits
 
 ### Introduction aux droits d'accès
