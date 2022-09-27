@@ -16,17 +16,17 @@ Architecture
 
 Un découpage selon l'usage semble adéquat, tel qu'il a été construit initialement, mais nous pourrions adopter un découpage un peu plus fin:
 
-- **Utilisateur / Prise en main**: Toute la documentation pour aider l'utilisateur de base a créer un compte, récuperer son mot de passe, editer ou créer une page, comprendre la syntaxe wiki de base, etc...
+- **Premiers pas** : Toute la documentation pour aider l'utilisateur de base a créer un compte, récuperer son mot de passe, editer ou créer une page, comprendre la syntaxe wiki de base, etc...
 
-- **Utilisateur avancé**: Pour celleux qui poussent leur usage du wiki dans ses plus fines fonctionnalités: usage des actions, des feintes de mise en page
+- **Usages avancés** : Pour celleux qui poussent leur usage du wiki dans ses plus fines fonctionnalités: usage des actions, des feintes de mise en page
 
-- **Bazar**: Toute la doc concernant bazar (création, rendu, templates...)
+- **Formulaires (Bazar)** : Toute la doc concernant bazar (création, rendu, templates...)
 
-- **Admin wiki**: Tout ce qui est dans la roue crantée (et singulièrement la partie dans la page gestion du site dont look du wiki)
+- **Administration** : Tout ce qui est dans la roue crantée (et singulièrement la partie dans la page gestion du site dont look du wiki)
 
-- **Admin Système**: Là on sort de l'interface web, avec des infos sur l'installation, les fichiers de configuration, la gestion des mails sortants, migration, herse, gestion spams par phpmyadmin et ce genre de choses.
+- **Installation** : Là on sort de l'interface web, avec des infos sur l'installation, les fichiers de configuration, la gestion des mails sortants, migration, herse, gestion spams par phpmyadmin et ce genre de choses.
 
-- **Personnalisation avancée, pour développeurs**: Pour les dev qui vont **utiliser** yeswiki. Il s'agit surtout de mettre la doc sur le dossier `custom` (faire un template custom par exemple....), et peut être d'autres trucs comme ouvrir l'API etc.
+- **Développement** : Pour les dev qui vont **utiliser** yeswiki. Il s'agit surtout de mettre la doc sur le dossier `custom` (faire un template custom par exemple....), et peut être d'autres trucs comme ouvrir l'API etc.
 
 Usages et bonnes pratiques
 ----------------------------
